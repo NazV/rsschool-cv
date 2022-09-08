@@ -2,8 +2,8 @@
 
 ## Contact
 
-- ##### Phone: +994557305995
-- ##### Email: nazrinvahabli@gmail.com
+- Phone: +994557305995
+- Email: nazrinvahabli@gmail.com
 - [Linkedin](https://www.linkedin.com/in/nazrin-vahably-351676152/)
 
 ---
