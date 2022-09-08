@@ -1,10 +1,6 @@
 # Nazrin Vahably
 
-## Junior Front-end Developer _(beginner)_
-
----
-
-### Contact
+## Contact
 
 - ##### Phone: +994557305995
 - ##### Email: nazrinvahabli@gmail.com
@@ -12,11 +8,14 @@
 
 ---
 
-### Brief information about me
+## About me
+
+I have always been interested in programming, but I received my education in a different field. I can describe myself as very motivated and hardworking person who is committed to continuous learning and improvement. Some time ago I became interested in front-end development, watching videos, reading and trying to do something myself.
+I have no doubt that by starting to study with your course, I will receive all the most necessary knowledge and experience. My goal is to successfully complete the course, build a productive and effective portfolio, and become a good junior front-end developer who will always develop herself to become even better!
 
 ---
 
-### Skills
+## Skills
 
 - HTML5
 - CSS3
@@ -38,9 +37,9 @@ const multiply = (a, b) => a * b;
 
 ---
 
-### Experience
+## Experience
 
-#### Links of developed training projects:
+### Links of developed training projects:
 
 1. [Food delivery](https://nazv.github.io/index.food/)
 2. [Movie promo](https://nazv.github.io/promo_batman/)
@@ -50,14 +49,14 @@ const multiply = (a, b) => a * b;
 
 ---
 
-### Education
+## Education
 
 - **Bachelor** - Geophysical engineering / ASOIU /2012-2016
 - **Master** - Petroleum geophysics / ASOIU / 2016-2018
 
 ---
 
-### Languages
+## Languages
 
 - _English_ - Intermeadiate
 - _Russian_ - Excellent
